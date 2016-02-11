@@ -1,1 +1,1 @@
-..* Druid : http://static.druid.io/docs/druid.pdf
+* Druid : http://static.druid.io/docs/druid.pdf
